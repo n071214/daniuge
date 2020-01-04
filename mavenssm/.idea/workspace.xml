@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mavenssm:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d8c2d18-729b-438f-98a4-387604a52ed4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cuijunjia</find>
+      <find>killPhoneMessage</find>
+      <find>Fast</find>
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.2-bin\maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2-bin/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2-bin\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VpzWIb9SsMqQPtrnnHsXebN5jF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577962225547" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kgc.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/kgc/xiancheng/javaclassfanshe" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kgc/io" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kgc/xiancheng" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kgc/xiancheng/bank" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/kgc/jihe/jihexia" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" editBeforeRun="true" APPLICATION_SERVER_NAME="Tomcat 9.0.121" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/mavenssm_war/seckill/list" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mavenssm:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mavenssm_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mavenssm" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61997" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mavenssm:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d8c2d18-729b-438f-98a4-387604a52ed4" name="Default Changelist" comment="" />
+      <created>1563947968040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563947968040</updated>
+      <workItem from="1563947970993" duration="23028000" />
+      <workItem from="1564040207135" duration="38624000" />
+      <workItem from="1564736361691" duration="31672000" />
+      <workItem from="1565660305414" duration="4719000" />
+      <workItem from="1565779076151" duration="155000" />
+      <workItem from="1565834949751" duration="1835000" />
+      <workItem from="1565919646616" duration="1476000" />
+      <workItem from="1566525522029" duration="1054000" />
+      <workItem from="1566962112696" duration="1458000" />
+      <workItem from="1567124316192" duration="582000" />
+      <workItem from="1571879158461" duration="265000" />
+      <workItem from="1571902501687" duration="718000" />
+      <workItem from="1571995848255" duration="355000" />
+      <workItem from="1572426459167" duration="639000" />
+      <workItem from="1572851267235" duration="2851000" />
+      <workItem from="1572924214109" duration="562000" />
+      <workItem from="1574406673396" duration="1487000" />
+      <workItem from="1574739726514" duration="7427000" />
+      <workItem from="1574905668983" duration="9314000" />
+      <workItem from="1575507826059" duration="3025000" />
+      <workItem from="1576115749843" duration="848000" />
+      <workItem from="1576117746126" duration="1245000" />
+      <workItem from="1576570336519" duration="1436000" />
+      <workItem from="1576717051451" duration="14000" />
+      <workItem from="1576718081301" duration="667000" />
+      <workItem from="1576734788743" duration="592000" />
+      <workItem from="1576737342554" duration="2024000" />
+      <workItem from="1577762284083" duration="23316000" />
+      <workItem from="1577964856102" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SeckillServiceImplTest_testExecuteSeckill - 2019.07.25 at 10h 44m 27s.xml">
+      <configuration name="SeckillServiceImplTest.testExecuteSeckill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExportSeckillUrl - 2019.07.25 at 10h 53m 27s.xml">
+      <configuration name="SeckillServiceImplTest.testExportSeckillUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExportSeckillUrl - 2019.07.25 at 10h 56m 07s.xml">
+      <configuration name="SeckillServiceImplTest.testExportSeckillUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExportSeckillUrl - 2019.07.25 at 10h 56m 35s.xml">
+      <configuration name="SeckillServiceImplTest.testExportSeckillUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExportSeckillUrl - 2019.07.25 at 10h 58m 42s.xml">
+      <configuration name="SeckillServiceImplTest.testExportSeckillUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExportSeckillUrl - 2019.07.25 at 11h 02m 44s.xml">
+      <configuration name="SeckillServiceImplTest.testExportSeckillUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExecuteSeckill - 2019.07.25 at 11h 04m 24s.xml">
+      <configuration name="SeckillServiceImplTest.testExecuteSeckill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExecuteSeckill - 2019.07.25 at 11h 05m 05s.xml">
+      <configuration name="SeckillServiceImplTest.testExecuteSeckill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExecuteSeckill - 2019.07.25 at 11h 06m 58s.xml">
+      <configuration name="SeckillServiceImplTest.testExecuteSeckill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeckillServiceImplTest_testExecuteSeckill - 2019.07.25 at 11h 08m 37s.xml">
+      <configuration name="SeckillServiceImplTest.testExecuteSeckill" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="297" key="FileChooserDialogImpl" timestamp="1577964960488">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="297" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1577964960488" />
+    <state x="432" y="184" key="SettingsEditor" timestamp="1577964968046">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="432" y="184" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1577964968046" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mavenssm:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mavenssm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
